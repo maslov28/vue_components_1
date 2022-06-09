@@ -1,4 +1,7 @@
 <template>
+  <p>
+    создать компонент, который принимает параметром строку и добавляет к ней текущую дату
+  </p>
   <new-component date="Today: "></new-component>
 </template>
 
